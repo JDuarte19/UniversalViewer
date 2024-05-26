@@ -1,0 +1,7 @@
+ Some commands for running through the TMS.
+ - read will read all the links you have added
+ - print will print all parsed links
+ - write will write into the links array, does not save to file
+ - save will rewrite links into file
+ - quit will quit
+ - 2 will delete links

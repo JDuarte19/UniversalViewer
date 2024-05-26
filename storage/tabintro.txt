@@ -1,0 +1,6 @@
+Welcome to TMS (Tab Management Script).
+The goal of this script is a simple way to lower the amount of RAM google chrome eats while in the background.
+I hope having one tab open eats less memory than having 10 open.
+The difference between this and a bookmark?
+VERY LITTLE LOL!!!!!
+However, this will be utilizing web scraping scripts to deliver some of the content on the url bookmarked.
