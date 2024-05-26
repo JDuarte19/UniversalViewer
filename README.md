@@ -1,13 +1,8 @@
 # UniversalViewer
 Read file types: .csv, .json, .txt.
 
-How to run:
-- Start with 'python inputting.py'
+Personal project to read all types of files(text,image,spreadsheets,graphs,webpages)
+The goal is to develope skills using all sorts of python libraries necessary for data manipulation and visualization.
 
-menu.txt gives a quick background:
-
-"Welcome to FileView menu beta!
-The currently supported files are: CSV, JSON, TXT
-To interact with menu please remember these commands.
-- Text(file_name) will open a Textfile for the file_name."
-
+One use I have found useful is a tab script to store and open tabs to decrease the amount of memory Google Chrome uses while in the background.
+I don't like the fact that an app to store webpages should be using so much memory, so I use this to decrease that burden on my devices.
